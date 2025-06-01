@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/rojoangel/bcn1-00-sfe/
+    type: markup
+
+folders:
+  /products/: /products/default
